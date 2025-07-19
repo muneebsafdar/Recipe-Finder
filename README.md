@@ -36,7 +36,7 @@ Welcome to the **Recipe Finder App**, a React-based web application that allows 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/recipe-finder-app.git
+git clone https://github.com/muneebsafdar/Recipe-Finder
 cd recipe-finder-app
 ```
 
