@@ -29,13 +29,6 @@ Welcome to the **Recipe Finder App**, a React-based web application that allows 
 - **Authentication & Database:** Appwrite
 - **Routing & Security:** React Router + AuthLayout
 - **API:** [TheMealDB API](https://www.themealdb.com/api.php)
-
----
-
-## 🖼️ Screenshots
-
-*(Add screenshots of your app UI here)*
-
 ---
 
 ## 🛠️ Installation
@@ -95,8 +88,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Feel free to reach out via:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muneeb--ur--rehman/)
+- **GitHub**: [muneebsafdar](https://github.com/muneebsafdar)
 
 ---
 
